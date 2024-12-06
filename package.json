@@ -7,12 +7,12 @@
     "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Humberto Solis Novello",
+  "author": "Ruben Jose Quintero Sala",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
-    "express": "^4.21.1",
+    "express": "^4.21.2",
     "mongoose": "^8.8.2",
     "morgan": "^1.10.0"
   },
